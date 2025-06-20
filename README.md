@@ -63,10 +63,10 @@ I'm currently:
 
 ## 📫 Let's Connect!
 
-- 🌐 [Portfolio Website (if available)](https://yourwebsite.com)
-- 📧 Email: your.email@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
-- 🐦 [Twitter (optional)](https://twitter.com/yourusername)
+
+- 📧 Email:
+- 💼 [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/lakshya-patel-lp/))
+
 
 ---
 
