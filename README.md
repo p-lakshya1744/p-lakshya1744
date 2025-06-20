@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">👋 Hi there! I'm [Your Name]</h1>
+<p align="center">🚀 AI/ML Enthusiast | 🧠 Lifelong Learner | 🔬 Aspiring Deep Learning Engineer</p>
 
-<!--
-**p-lakshya1744/p-lakshya1744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate and curious **Machine Learning** enthusiast exploring the fascinating world of **Artificial Intelligence**. I've built several projects using classical ML techniques and tools. Currently, I'm diving deep into **Deep Learning** with frameworks like **TensorFlow** and **Keras**.
+
+---
+
+## 🛠️ Skills & Tools
+
+### 📦 Libraries & Tools:
+- 🐍 Python
+- 📊 Pandas, NumPy
+- 📉 Matplotlib, Seaborn
+- 🔍 Scikit-learn
+- 🧪 Jupyter Notebook
+- ⚙️ Hyperparameter Tuning (Grid Search, Random Search)
+
+### 🤖 Machine Learning:
+- 📈 Linear & Logistic Regression
+- 🌳 Decision Trees, Random Forests
+- 🧠 Support Vector Machines (SVM)
+- 👥 K-Nearest Neighbors (KNN)
+- ⚡ Gradient Boosting, XGBoost
+- 🧪 Model Evaluation (Confusion Matrix, ROC-AUC, etc.)
+
+### 🧬 Currently Learning:
+- 🔁 Neural Networks (ANNs)
+- 🧠 Deep Learning fundamentals
+- 🧱 TensorFlow & Keras
+- 🔧 Activation Functions, Backpropagation
+
+---
+
+## 📂 Projects
+
+Here are some of the projects I’ve worked on:
+
+| 🔢 Project | 🔍 Description |
+|-----------|----------------|
+| 🏠 **House Price Prediction** | Predict house prices using regression models |
+| 🌊 **Customer Churn Analysis** | Predict whether customers will leave a service |
+| 🌸 **Iris Flower Classification** | A beginner-friendly ML project using KNN |
+| 🚢 **Titanic Survival Prediction** | Logistic Regression & Decision Trees on Titanic data |
+| 📈 **Stock Price Analysis** | Explore and analyze time series data |
+
+👉 Check out my work in the [**Repositories**](https://github.com/your-username?tab=repositories) section!
+
+---
+
+## 🌱 What's Next?
+
+I'm currently:
+- Learning how to build and train **Neural Networks**
+- Understanding **Backpropagation**
+- Experimenting with **TensorFlow & Keras**
+- Working on hands-on deep learning mini-projects (stay tuned!)
+
+---
+
+## 📫 Let's Connect!
+
+- 🌐 [Portfolio Website (if available)](https://yourwebsite.com)
+- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+- 🐦 [Twitter (optional)](https://twitter.com/yourusername)
+
+---
+
+⭐️ Thanks for visiting my profile! Let’s learn, build, and grow together. 🌟
