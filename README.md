@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
+  <a href="(https://leetcode.com/u/p_lakshya1744/)" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
 </p>
