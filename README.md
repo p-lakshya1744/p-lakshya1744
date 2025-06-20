@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm [Your Name]</h1>
+<h1 align="center">👋 Hi there! I'm Lakshya Patel </h1>
 <p align="center">🚀 AI/ML Enthusiast | 🧠 Lifelong Learner | 🔬 Aspiring Deep Learning Engineer</p>
 
 ---
