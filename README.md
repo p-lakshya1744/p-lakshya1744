@@ -57,7 +57,7 @@ Here are some of the projects I’ve worked on:
 | 🚢 **Titanic Survival Prediction** | Logistic Regression & Decision Trees on Titanic data |
 | 📈 **Stock Price Analysis** | Explore and analyze time series data |
 
-👉 Check out my work in the [**Repositories**](https://github.com/your-username?tab=repositories) section!
+👉 Check out my work in the [**Repositories**](https://github.com/p-lakshya1744?tab=repositories) section!
 
 ---
 
