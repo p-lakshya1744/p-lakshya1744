@@ -1,6 +1,16 @@
 <h1 align="center">👋 Hi there! I'm Lakshya Patel </h1>
 <p align="center">🚀 AI/ML Enthusiast | 🧠 Lifelong Learner | 🔬 Aspiring Deep Learning Engineer</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/lakshya-patel-lp/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+</p>
+
 ---
 
 ## 🧠 About Me
@@ -61,13 +71,6 @@ I'm currently:
 
 ---
 
-## 📫 Let's Connect!
 
-
-- 📧 Email:
-- 💼 [LinkedIn] https://www.linkedin.com/in/lakshya-patel-lp/
-
-
----
 
 ⭐️ Thanks for visiting my profile! Let’s learn, build, and grow together. 🌟
