@@ -65,7 +65,7 @@ I'm currently:
 
 
 - 📧 Email:
-- 💼 [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/lakshya-patel-lp/))
+- 💼 [LinkedIn] https://linkedin.com/in/yourusername](https://www.linkedin.com/in/lakshya-patel-lp/
 
 
 ---
